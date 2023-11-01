@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R4C8oxdEPHXTVfgDCaORNeWJ2tg8WyG7zujCM8UHnZo=",
+  "Source": "burble-api",
+  "BasePath": "_content/burble-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
